@@ -79,7 +79,7 @@ export function About() {
                       <div className="w-3 h-3 rounded-full bg-green-500/80" />
                     </div>
                     <span className="text-xs font-mono text-neutral-500">
-                      alex@terminal ~ profile.sh
+                      sokmeng@terminal ~ profile.sh
                     </span>
                   </div>
 
@@ -87,11 +87,11 @@ export function About() {
                   <div className="flex items-center gap-4">
                     <div className="w-16 h-16 rounded-2xl bg-gradient-to-tr from-cyan-500 via-sky-500 to-indigo-600 p-[2px] shadow-lg">
                       <div className="w-full h-full rounded-[14px] bg-neutral-950 flex items-center justify-center text-white font-bold text-xl">
-                        AR
+                        SH
                       </div>
                     </div>
                     <div>
-                      <h3 className="text-lg font-bold text-white">Alex Rivera</h3>
+                      <h3 className="text-lg font-bold text-white">Sokmeng Hoem</h3>
                       <p className="text-xs text-cyan-400 font-mono">Senior Creative Technologist</p>
                       <p className="text-xs text-neutral-400 mt-0.5">Based in San Francisco / Remote</p>
                     </div>

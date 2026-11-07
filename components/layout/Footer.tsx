@@ -36,11 +36,11 @@ export function Footer() {
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-cyan-400 via-sky-500 to-indigo-600 p-[1.5px] shadow-[0_0_15px_rgba(6,182,212,0.3)]">
                 <div className="w-full h-full bg-neutral-950 rounded-[10px] flex items-center justify-center font-bold text-white text-sm">
-                  AR
+                  SH
                 </div>
               </div>
               <div>
-                <h3 className="text-base font-bold text-white">Alex Rivera</h3>
+                <h3 className="text-base font-bold text-white">Sokmeng Hoem</h3>
                 <p className="text-xs text-neutral-400">Senior Creative Developer & Systems Architect</p>
               </div>
             </div>
@@ -101,7 +101,7 @@ export function Footer() {
         {/* Bottom bar */}
         <div className="pt-8 border-t border-white/[0.08] flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-neutral-500">
           <p className="flex items-center gap-1">
-            © {new Date().getFullYear()} Alex Rivera. Engineered with Next.js, Three.js & Tailwind CSS.
+            © {new Date().getFullYear()} Sokmeng Hoem. Engineered with Next.js, Three.js & Tailwind CSS.
           </p>
 
           <button

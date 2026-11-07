@@ -13,27 +13,27 @@ export const navItems: NavItem[] = [
 export const socialLinks: SocialLink[] = [
   {
     name: "GitHub",
-    url: "https://github.com/alexrivera",
+    url: "https://github.com/sokmenghoem",
     icon: "Github",
-    handle: "@alexrivera",
+    handle: "@sokmenghoem",
   },
   {
     name: "LinkedIn",
-    url: "https://linkedin.com/in/alexrivera-dev",
+    url: "https://linkedin.com/in/sokmenghoem",
     icon: "Linkedin",
-    handle: "Alex Rivera",
+    handle: "Sokmeng Hoem",
   },
   {
     name: "X / Twitter",
-    url: "https://twitter.com/alexrivera_dev",
+    url: "https://twitter.com/sokmenghoem",
     icon: "Twitter",
-    handle: "@alexrivera_dev",
+    handle: "@sokmenghoem",
   },
   {
     name: "Email",
-    url: "mailto:alex@alexrivera.dev",
+    url: "mailto:sokmeng@sokmenghoem.dev",
     icon: "Mail",
-    handle: "alex@alexrivera.dev",
+    handle: "sokmeng@sokmenghoem.dev",
   },
 ];
 

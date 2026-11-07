@@ -7,8 +7,8 @@ import { SmoothScroll } from "@/components/providers/SmoothScroll";
 import { ThemeProvider } from "@/components/providers/ThemeProvider";
 
 export const metadata: Metadata = {
-  title: "Contact & Collaboration — Alex Rivera",
-  description: "Get in touch with Alex Rivera for senior engineering, creative development, or technical architecture.",
+  title: "Contact & Collaboration — Sokmeng Hoem",
+  description: "Get in touch with Sokmeng Hoem for senior engineering, creative development, or technical architecture.",
 };
 
 export default function ContactPage() {

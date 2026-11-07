@@ -90,7 +90,7 @@ export function Contact() {
   };
 
   const copyEmailToClipboard = () => {
-    navigator.clipboard.writeText("alex@alexrivera.dev");
+    navigator.clipboard.writeText("sokmeng@sokmenghoem.dev");
     setCopiedEmail(true);
     setTimeout(() => setCopiedEmail(false), 2000);
   };
@@ -158,7 +158,7 @@ export function Contact() {
                     <div className="truncate">
                       <p className="text-[11px] text-neutral-400 font-medium">Direct Email</p>
                       <p className="text-sm font-mono text-cyan-300 font-semibold truncate">
-                        alex@alexrivera.dev
+                        sokmeng@sokmenghoem.dev
                       </p>
                     </div>
                   </div>

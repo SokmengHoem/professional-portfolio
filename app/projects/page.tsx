@@ -7,8 +7,8 @@ import { SmoothScroll } from "@/components/providers/SmoothScroll";
 import { ThemeProvider } from "@/components/providers/ThemeProvider";
 
 export const metadata: Metadata = {
-  title: "Projects & Architecture — Alex Rivera",
-  description: "Browse featured projects, architectural case studies, and creative web development by Alex Rivera.",
+  title: "Projects & Architecture — Sokmeng Hoem",
+  description: "Browse featured projects, architectural case studies, and creative web development by Sokmeng Hoem.",
 };
 
 export default function ProjectsPage() {

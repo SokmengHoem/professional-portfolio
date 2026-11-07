@@ -2,11 +2,11 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Alex Rivera — Senior Creative Developer & Systems Architect",
+  title: "Sokmeng Hoem — Senior Creative Developer & Systems Architect",
   description:
-    "Portfolio of Alex Rivera, a Senior Frontend Engineer and Creative Developer crafting modern web applications, interactive 3D experiences, and high-performance digital systems.",
+    "Portfolio of Sokmeng Hoem, a Senior Frontend Engineer and Creative Developer crafting modern web applications, interactive 3D experiences, and high-performance digital systems.",
   keywords: [
-    "Alex Rivera",
+    "Sokmeng Hoem",
     "Creative Developer",
     "Senior Frontend Engineer",
     "Three.js",
@@ -15,23 +15,23 @@ export const metadata: Metadata = {
     "TypeScript",
     "Tailwind CSS",
   ],
-  authors: [{ name: "Alex Rivera" }],
-  creator: "Alex Rivera",
+  authors: [{ name: "Sokmeng Hoem" }],
+  creator: "Sokmeng Hoem",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://alexrivera.dev",
-    title: "Alex Rivera — Senior Creative Developer & Systems Architect",
+    url: "https://sokmenghoem.dev",
+    title: "Sokmeng Hoem — Senior Creative Developer & Systems Architect",
     description:
       "Crafting modern web applications, interactive 3D experiences, and high-performance digital systems.",
-    siteName: "Alex Rivera Portfolio",
+    siteName: "Sokmeng Hoem Portfolio",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Alex Rivera — Senior Creative Developer & Systems Architect",
+    title: "Sokmeng Hoem — Senior Creative Developer & Systems Architect",
     description:
       "Crafting modern web applications, interactive 3D experiences, and high-performance digital systems.",
-    creator: "@alexrivera_dev",
+    creator: "@sokmenghoem",
   },
 };
 

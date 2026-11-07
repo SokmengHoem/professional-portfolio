@@ -7,8 +7,8 @@ import { SmoothScroll } from "@/components/providers/SmoothScroll";
 import { ThemeProvider } from "@/components/providers/ThemeProvider";
 
 export const metadata: Metadata = {
-  title: "About — Alex Rivera | Senior Creative Developer",
-  description: "Learn more about Alex Rivera, engineering background, philosophy, and accomplishments.",
+  title: "About — Sokmeng Hoem | Senior Creative Developer",
+  description: "Learn more about Sokmeng Hoem, engineering background, philosophy, and accomplishments.",
 };
 
 export default function AboutPage() {

@@ -38,7 +38,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return {
-    title: `${project.title} — Case Study | Alex Rivera`,
+    title: `${project.title} — Case Study | Sokmeng Hoem`,
     description: project.description,
   };
 }

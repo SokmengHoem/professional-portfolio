@@ -73,12 +73,12 @@ export function Navbar() {
           >
             <div className="relative w-10 h-10 rounded-xl bg-gradient-to-br from-cyan-400 via-sky-500 to-indigo-600 p-[1.5px] transition-transform duration-300 group-hover:scale-105 shadow-[0_0_20px_rgba(6,182,212,0.3)]">
               <div className="w-full h-full bg-neutral-950 rounded-[10px] flex items-center justify-center font-bold text-white tracking-wider text-sm">
-                AR
+                SH
               </div>
             </div>
             <div className="flex flex-col">
               <span className="text-sm font-bold tracking-tight text-white group-hover:text-cyan-300 transition-colors">
-                Alex Rivera
+                Sokmeng Hoem
               </span>
               <span className="text-[11px] text-neutral-400 font-mono tracking-wider">
                 Creative Dev / Systems

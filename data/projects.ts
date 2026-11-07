@@ -23,7 +23,7 @@ export const projectsData: Project[] = [
       { label: "Render Framerate", value: "60 FPS" },
     ],
     liveUrl: "https://aurora-ai-studio-demo.vercel.app",
-    githubUrl: "https://github.com/alexrivera/aurora-ai-studio",
+    githubUrl: "https://github.com/sokmenghoem/aurora-ai-studio",
     architectureHighlights: [
       "Custom WebGPU pipeline for client-side latent blend and filters",
       "CRDT-backed state synchronization via WebSockets and Yjs",
@@ -53,7 +53,7 @@ export const projectsData: Project[] = [
       { label: "Awwwards", value: "Site of the Day" },
     ],
     liveUrl: "https://chronos-spatial-engine.vercel.app",
-    githubUrl: "https://github.com/alexrivera/chronos-spatial-engine",
+    githubUrl: "https://github.com/sokmenghoem/chronos-spatial-engine",
     architectureHighlights: [
       "Custom Draco + KTX2 mesh and texture compression pipeline",
       "Post-processing pipeline with volumetric bloom and depth-of-field",
@@ -83,7 +83,7 @@ export const projectsData: Project[] = [
       { label: "Cluster Nodes", value: "12,000+" },
     ],
     liveUrl: "https://nexus-cloud-mesh-demo.vercel.app",
-    githubUrl: "https://github.com/alexrivera/nexus-mesh",
+    githubUrl: "https://github.com/sokmenghoem/nexus-mesh",
     architectureHighlights: [
       "Virtualized dynamic topology graph rendering up to 10k nodes with Canvas2D",
       "Binary Protobuf stream decoder over WebTransport for real-time telemetry",
@@ -112,7 +112,7 @@ export const projectsData: Project[] = [
       { label: "Uptime", value: "99.999%" },
     ],
     liveUrl: "https://hyperion-fintech.vercel.app",
-    githubUrl: "https://github.com/alexrivera/hyperion-terminal",
+    githubUrl: "https://github.com/sokmenghoem/hyperion-terminal",
     architectureHighlights: [
       "Zero-garbage-collection ring buffer for high-frequency tick ingestion",
       "SharedArrayBuffer memory bridge between Web Workers and DOM thread",
@@ -141,7 +141,7 @@ export const projectsData: Project[] = [
       { label: "Apps Powered", value: "40+" },
     ],
     liveUrl: "https://strata-ui-system.vercel.app",
-    githubUrl: "https://github.com/alexrivera/strata-design-system",
+    githubUrl: "https://github.com/sokmenghoem/strata-design-system",
     architectureHighlights: [
       "Strict WAI-ARIA compliant primitives with full keyboard and screen reader support",
       "Design token compiler outputting CSS variables, JS theme objects, and iOS/Android styles",
@@ -170,7 +170,7 @@ export const projectsData: Project[] = [
       { label: "App Store Rating", value: "4.9 / 5.0" },
     ],
     liveUrl: "https://vortex-wallet-app.vercel.app",
-    githubUrl: "https://github.com/alexrivera/vortex-wallet",
+    githubUrl: "https://github.com/sokmenghoem/vortex-wallet",
     architectureHighlights: [
       "Hardware Enclave WebAuthn passkey authentication with no seed phrases",
       "ERC-4337 bundler integration with paymaster sponsorship",
